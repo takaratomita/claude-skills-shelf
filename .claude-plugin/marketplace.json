@@ -1,0 +1,24 @@
+{
+  "name": "claude-skills-shelf",
+  "owner": {
+    "name": "takaratomita"
+  },
+  "metadata": {
+    "description": "Free Agent Skills for Claude Code: verify before claiming done, measure a baseline before fixing, and write safe handoff prompts."
+  },
+  "plugins": [
+    {
+      "name": "proof-first-skills",
+      "description": "Three workflow skills that make Claude Code prove its work: verify-before-done, baseline-first-fix, handoff-prompt.",
+      "source": "./",
+      "author": {
+        "name": "takaratomita"
+      },
+      "homepage": "https://github.com/takaratomita/claude-skills-shelf",
+      "repository": "https://github.com/takaratomita/claude-skills-shelf",
+      "license": "MIT",
+      "keywords": ["skills", "verification", "testing", "debugging", "handoff", "workflow"],
+      "category": "productivity"
+    }
+  ]
+}

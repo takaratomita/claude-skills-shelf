@@ -1,0 +1,11 @@
+{
+  "name": "proof-first-skills",
+  "description": "Three workflow skills that make AI coding agents prove their work: verify-before-done, baseline-first-fix, handoff-prompt.",
+  "author": {
+    "name": "takaratomita"
+  },
+  "repository": "https://github.com/takaratomita/claude-skills-shelf",
+  "license": "MIT",
+  "keywords": ["skills", "verification", "testing", "debugging", "handoff", "workflow"],
+  "skills": "./skills/"
+}
