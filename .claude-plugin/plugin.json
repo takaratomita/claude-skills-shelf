@@ -1,0 +1,13 @@
+{
+  "name": "proof-first-skills",
+  "displayName": "Proof-First Skills",
+  "version": "1.0.0",
+  "description": "Three workflow skills that make Claude Code prove its work: verify-before-done, baseline-first-fix, handoff-prompt.",
+  "author": {
+    "name": "takaratomita"
+  },
+  "homepage": "https://github.com/takaratomita/claude-skills-shelf",
+  "repository": "https://github.com/takaratomita/claude-skills-shelf",
+  "license": "MIT",
+  "keywords": ["skills", "verification", "testing", "debugging", "handoff", "workflow"]
+}
