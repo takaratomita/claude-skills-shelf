@@ -74,12 +74,6 @@ python3 -m unittest discover -s scripts
 claude plugin validate . --strict
 ```
 
-## Want more?
-
-These three skills are the free core of the **Proof-First Kit for Claude Code**.
-The full kit adds reviewer and verifier subagents, safety hooks for dangerous commands and secret files,
-more skills, and an extended rule set: https://takara32.gumroad.com/
-
 ## Contributing
 
 Issues and pull requests are welcome. Keep each skill focused on one workflow, keep the `name` equal to the
